@@ -181,12 +181,13 @@ The company has come a very long way since its small beginnings in 1970. Mr. Nas
 					<div class="row center">
 							<div class="col-md-12">
 								<h2 class="short word-rotator-title">
-									Meet few of our
+									I am the 
 									<strong>
 										<span class="word-rotate">
 											<span class="word-rotate-items">
-												<span>satisfied</span>
-												<span>happy</span>
+												<span>samatest</span>
+												<span>super</span>
+                                                <span>Intelligent</span>
 											</span>
 										</span>
 									</strong>
